@@ -52,5 +52,6 @@ proses back up dan recovery mengunakan perintah mysqldump:
 
 backup otomatis setiap hari minggu jam 12 malam :
 
-![image](https://user-images.githubusercontent.com/81596397/125084742-11310780-e0f4-11eb-8535-a875e368240b.png)
+![image](https://user-images.githubusercontent.com/81596397/125121150-ac8aa280-e11d-11eb-9b2d-6d1c4fcaa59c.png)
+
 
